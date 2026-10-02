@@ -1,3 +1,4 @@
+Live Demo Link:https://vasha-analysis-com.vercel.app/
 # Bhasha (ভাষা): multilingual AI web app
 
 Chat, translate and analyse files (image, PDF, DOCX, CSV/XLSX, audio) in Chittagonian, Bengali, English, Hindi, Chinese and more.
